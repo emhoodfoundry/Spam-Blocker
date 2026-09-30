@@ -2,5 +2,7 @@
   "name": "ShieldS26 - Spam Call & Text Blocker",
   "description": "Automated spam call and SMS blocker for Samsung Galaxy S26 with keyword filtering, robocall interception, and detailed security reports.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
